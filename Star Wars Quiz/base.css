@@ -1,0 +1,36 @@
+#home {
+  background-image: url(background.jpg);
+}
+
+.logo {
+  width:60%;
+	display: block;
+	float:none;
+	margin: 0 auto;
+}
+
+.artigo{
+  color: #e1ca6d;
+    border-style:groove;
+    border-color: red;
+    border-collapse:unset;
+    border-bottom-width: 2px;
+    padding: 6px;
+}
+
+.botão {
+  border-style:groove;
+  border-color: red;
+  border-collapse:unset;
+  border-bottom-width: 2px;
+  text-decoration: none;
+  text-align:center;
+  color:#e1ca6d;
+  background-color: black;
+  width:120px;
+  height:24px;
+  align-content: center;
+  display: block;
+  float:none;
+  margin: 30px auto 0 ;
+}
